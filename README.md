@@ -1,3 +1,9 @@
+## Newer patched version is available: 
+### https://github.com/Tachii/artisan-gui - supports PHP8.3 & Laravel 10
+
+
+>
+>
 > This package now in very slow development. It's not abandoned, you can still use it. 
 > 
 > Currently, started development of the new package. [#34](https://github.com/infureal/artisan-gui/issues/36)
